@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/1hWuQn9eeiBApLyNb02fPgvadevr8O3hL/view?usp=drive_link' title='[Chau Cao] Website Walkthrough | WEB102 Prework Submission' width='' alt='Website Video Walkthrough' />
+<img src='https://i.imgur.com/WiIMa9I.gif' title='[Chau Cao] Website Walkthrough | WEB102 Prework Submission' width='' alt='Website Video Walkthrough' />
 
 GIF created with ScreenToGif  
 
