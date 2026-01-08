@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features (if unable to click, please find the GIF walkthrough in the assets folder:
+Here's a walkthrough of implemented features (if unable to click, please find the GIF walkthrough in the assets folder):
 
 <img src=![Image](https://i.imgur.com/WiIMa9I.gif) title='[Chau Cao] Website Walkthrough | WEB102 Prework Submission' width='' alt='Website Video Walkthrough' />
 
