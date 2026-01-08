@@ -21,9 +21,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented features (if unable to click, please find the GIF walkthrough in the assets folder:
 
-<img src='https://i.imgur.com/WiIMa9I.gif' title='[Chau Cao] Website Walkthrough | WEB102 Prework Submission' width='' alt='Website Video Walkthrough' />
+<img src=![Image](https://i.imgur.com/WiIMa9I.gif) title='[Chau Cao] Website Walkthrough | WEB102 Prework Submission' width='' alt='Website Video Walkthrough' />
 
 GIF created with ScreenToGif  
 
