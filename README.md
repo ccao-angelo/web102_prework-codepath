@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='assets/[Chau Cao] Website Walkthrough.gif' title='[Chau Cao] Website Walkthrough | WEB102 Prework Submission' width='' alt='Website Video Walkthrough' />
+<img src='C:\Users\ASUS Vivobook\web102_prework\assets\[Chau Cao] Website Walkthrough.gif' title='[Chau Cao] Website Walkthrough | WEB102 Prework Submission' width='' alt='Website Video Walkthrough' />
 
 GIF created with ScreenToGif  
 
