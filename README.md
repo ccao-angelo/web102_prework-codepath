@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowfunding*
 
-Submitted by: **Your Name Here**
+Submitted by: **Chau Cao**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
@@ -23,22 +23,17 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://drive.google.com/file/d/1hWuQn9eeiBApLyNb02fPgvadevr8O3hL/view?usp=drive_link' title='[Chau Cao] Website Walkthrough | WEB102 Prework Submission' width='' alt='Website Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with ScreenToGif  
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The most challenging struggle I had was to make the website 'go live.' At first, when comparing my website with the examplar, I could not find out why the games were not displayed. I ran the codes through different AI to scan for syntax errors but all are correct. Until I know that the website would need to go live.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
